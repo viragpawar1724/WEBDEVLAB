@@ -1,0 +1,38 @@
+Name : Virag Bhimrao Pawar
+Roll No : 87
+Subject : Web Design-I
+
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+    <title>Practical 4</title>
+    <style>
+        div{
+            font-size:50px;
+            text-align:center;
+            margin-top:40px;
+            margin-left:250px;
+            margin-right:250px;
+            border:2px solid black;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="color:grey;background-color: black;text-align: center;">
+    Myself Virag<br>
+    You may connect to me through the below links
+    </h1>
+    <div>
+        <a href="https://www.linkedin.com/in/virag-pawar-a466b3232 ">Linkedin </a>
+    </div>
+    <div>
+        <a href="https://github.com/viragpawar1724">Github</a>
+    </div>
+    <div>
+        <a href="mailto:mr.viragpawar@gmail.com">Gmail</a>
+    </div>
+    <div>
+        <a href="Practical3.html">webpage</a>
+    </div>
+</body>
+</html>

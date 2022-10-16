@@ -1,0 +1,76 @@
+Name : Virag Bhimrao Pawar
+Roll No : 87
+Subject : Web Design-I
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virag Linking</title>
+</head>
+<body bgcolor="grey">
+    <h1 style="text-align:center;background-color:dimgray">Let's Learn Linking</h1>
+    <h2 style="text-align:center">There are two types of linking</h2>
+    <h2 style="background-color:darkblue">
+        <strong>Internal Linking</strong></h2>
+    <a href=https://www.linkedin.com/in/virag-pawar-a466b3232 >Linkedin</a><br>
+    <a href="https://github.com/viragpawar1724 ">Github</a><br>
+    <h2 style="background-color:dodgerblue">External Linking</h2>
+    <h3>Let us also have a look at the use of target attribute</h3>
+    <a href="https://www.google.co.in/">Google in the same tab</a><br>
+    <a href="https://www.google.co.in/">Google in the different tab</a>
+
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <h1 id="lin">Linkedin</h1>
+        <p>Linkedin isan American business and employment-oriented online service that operates via websites and mobile apps.<br>
+            Linkedin is a social networking site designed specially for the business community.<br>
+            The goal of the site is to allow registered members to establish and document networks of people they know and trust professionally.<br>
+            Linkedin was founded by Reid-Hoffman,a former Executive Vice President in charge of business and corporate development
+            for PayPal.<br>
+        </p>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <h1 id="git">Github</h1>
+        <p>GitHub is a web-based revision control hosting service for software development and code sharing.<br>
+        GitHub was started in 2008 and was founded on Git,an open source code management system built created by Linus 
+        Torvalds to make software builds faster.<br>
+        GitHub is used to store the source code for a project and track the complete history of all changes to that code.<br>
+        </p>
+</body>
+</html>
